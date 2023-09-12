@@ -1,0 +1,1 @@
+"Algoritmo = A*, Tiempo = 0.024828, Memoria = 0"
